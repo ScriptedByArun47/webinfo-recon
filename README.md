@@ -6,9 +6,23 @@ Prerequisites
 Ensure Python 3 is installed on your system.
 Install the required Python libraries:
 
+
+
+
 bash
 Copy code
 pip install requests beautifulsoup4
+
+
+Install Webinfotool
+bash 
+Copy code
+git clone  https://github.com/ScriptedByArun47/webinfo-recon.git
+
+Permission to  Webinfotool
+bash
+Copy code 
+chmod +x Webinfotool.py
 
 
 
